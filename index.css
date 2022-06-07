@@ -210,11 +210,13 @@ footer {
 }
 .separator2 {
 
-width: 800px;
+  width: 100%;
 	height: 1px;
 	margin: 90px auto;
 	display: block;
 	background: #848ccf;
+	
+
 
 }
 .mail_text {
