@@ -447,6 +447,10 @@ strong {
              box-shadow: 0 10px 10px rgba(255,255,255,.2);
            }
            
+.credit {
+
+	color: #848ccf;
+}
    
 #scroll_to_top {
   position: fixed;
@@ -455,6 +459,7 @@ strong {
   bottom: 50px;
   right: 30px;
 }
+
 #scroll_to_top img {
   width: 35px;
   
